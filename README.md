@@ -1,8 +1,10 @@
 # YOUR PROJECT NAME
 
 ## Contributors
-- PERSON
-- PERSON
+- Anthony Alvarez
+- Breanna Lu
+- Hayley McCormack
+- Xavier Khan
 
 ## Dependencies
 - JDK 11
