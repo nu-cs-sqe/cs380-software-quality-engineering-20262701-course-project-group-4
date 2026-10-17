@@ -1,4 +1,4 @@
-# YOUR PROJECT NAME
+# Settlers of Catan (by Toyota Camry)
 
 ## Contributors
 - Anthony Alvarez
